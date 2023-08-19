@@ -1,0 +1,34 @@
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.exe
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.deps.json
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.runtimeconfig.json
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.dll
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.pdb
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.AssemblyReference.cache
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.CapitalTotal.resources
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.GenerateResource.cache
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.AssemblyInfoInputs.cache
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.AssemblyInfo.cs
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.dll
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\refint\CapitalDeEmpresa.dll
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.pdb
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.genruntimeconfig.cache
+C:\Users\Gustavo Estrada\source\repos\CapitalDeEmpresa\obj\Debug\net6.0-windows\ref\CapitalDeEmpresa.dll
+E:\forms\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.exe
+E:\forms\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.deps.json
+E:\forms\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.runtimeconfig.json
+E:\forms\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.dll
+E:\forms\CapitalDeEmpresa\bin\Debug\net6.0-windows\CapitalDeEmpresa.pdb
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.AssemblyReference.cache
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.CapitalTotal.resources
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.GenerateResource.cache
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.AssemblyInfoInputs.cache
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.AssemblyInfo.cs
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.csproj.CoreCompileInputs.cache
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.dll
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\refint\CapitalDeEmpresa.dll
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.pdb
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\CapitalDeEmpresa.genruntimeconfig.cache
+E:\forms\CapitalDeEmpresa\obj\Debug\net6.0-windows\ref\CapitalDeEmpresa.dll
